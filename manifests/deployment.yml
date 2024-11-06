@@ -3,7 +3,8 @@ kind: Deployment
 metadata:
   name: nginx-server
   namespace: html
-
+  annotations:
+    reloader.stakater.com/auto: "true"
 spec:
   replicas: 1
   selector:
