@@ -15,6 +15,7 @@ data:
         <h1>Hello, ArgoCD!</h1>
         <p>This is a sample deployment. It launches a nginx service with a ConfigMap mounted as a volume containing some html.</p>
         <p>Using Stakater reloader, the service is restarted every time the ConfigMap changes which.</p>
+        <a class="btn btn-primary" target="_blank" href="https://www.julienverneaut.com">Contact us</a>
       </div>
     </body>
     </html>
