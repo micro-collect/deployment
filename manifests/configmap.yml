@@ -14,7 +14,9 @@ data:
       <div class="container p-4">
         <h1>Hello, ArgoCD!</h1>
         <p>This is a sample deployment. It launches a nginx service with a ConfigMap mounted as a volume containing some html.</p>
-        <p>Using Stakater reloader, the service is restarted every time the ConfigMap changes which.</p>
+        <p>Using Stakater reloader, the service is restarted every time the ConfigMap changes.</p>
+        <p>The deployement, service and configmap all live in a separate repository which is used to create an application on ArgoCD.</p>
+        <p>Everything works flawlessly.</p>
         <a class="btn btn-primary" target="_blank" href="https://www.julienverneaut.com">Contact us</a>
       </div>
     </body>
