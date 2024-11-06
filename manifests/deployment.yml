@@ -4,7 +4,7 @@ metadata:
   name: nginx-server
   namespace: html
   annotations:
-    reloader.stakater.com/auto: "true"
+    configmap.reloader.stakater.com/reload: "simple-html-config"
 spec:
   replicas: 1
   selector:
