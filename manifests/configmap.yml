@@ -47,6 +47,7 @@ data:
           </div>
         </div>
       </nav>
+
       <div class="container p-4">
         <h1>Hello, ArgoCD!</h1>
         <p>This is a sample deployment. It launches a nginx service with a ConfigMap mounted as a volume containing some html.</p>
