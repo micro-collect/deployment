@@ -13,5 +13,6 @@ data:
       <h1>Hello, ArgoCD!</h1>
       <p>It works.</p>
       <p>Reloader enabled</p>
+      <p>Yayy</p>
     </body>
     </html>
