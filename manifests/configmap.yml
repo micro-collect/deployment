@@ -11,5 +11,6 @@ data:
     </head>
     <body>
       <h1>Hello, ArgoCD!</h1>
+      <p>It works.</p>
     </body>
     </html>
