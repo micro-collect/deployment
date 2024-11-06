@@ -60,7 +60,7 @@ data:
       <div class="container">
         <div class="row">
           <div class="col-12 col-md-6 col-lg-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card">
               <img src="https://picsum.photos/500/300" class="card-img-top">
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
@@ -70,7 +70,7 @@ data:
             </div>
           </div>
           <div class="col-12 col-md-6 col-lg-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card">
               <img src="https://picsum.photos/500/300" class="card-img-top">
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
@@ -80,7 +80,7 @@ data:
             </div>
           </div>
           <div class="col-12 col-md-6 col-lg-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card">
               <img src="https://picsum.photos/500/300" class="card-img-top">
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
@@ -90,7 +90,7 @@ data:
             </div>
           </div>
           <div class="col-12 col-md-6 col-lg-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card">
               <img src="https://picsum.photos/500/300" class="card-img-top">
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
